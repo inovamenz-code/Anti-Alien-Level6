@@ -28,3 +28,5 @@ The local DX12 build produced a GPU crash on the test machine. Use `-dx11` when 
 ## Assets
 
 Third-party asset rights remain with their respective owners. No blanket open-source license is granted for those assets. This repository is private.
+
+Repository-copy validation: the trimmed Git project independently compiled its UE 5.4.4 editor module and cooked all 1,627 LEVEL-6 packages with 0 errors and the same 3 existing warnings. Git LFS integrity checks passed.

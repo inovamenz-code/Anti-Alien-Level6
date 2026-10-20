@@ -10,3 +10,5 @@ The original local project and the full material library are preserved. Changes 
 Validation: UE 5.4.4 Windows Development BuildCookRun succeeded; the candidate's runtime log contained zero AttachTo warnings and exited normally. A previous Shipping package also built successfully before the three binary asset fixes. The user reported that the newly opened candidate appeared correct; complete gameplay acceptance remains unverified.
 
 The packaged executable is not stored in this source branch. Launch with `-dx11` on the test machine to avoid the observed DX12 GPU crash.
+
+Repository-copy validation: the trimmed Git project independently compiled its UE 5.4.4 editor module and cooked all 1,627 LEVEL-6 packages with 0 errors and the same 3 existing warnings. Git LFS integrity checks passed.
