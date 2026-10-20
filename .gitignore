@@ -1,0 +1,17 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.vscode/
+/Builds/
+/Packaged/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.log
+*.tmp
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
