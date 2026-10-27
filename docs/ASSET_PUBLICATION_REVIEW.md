@@ -1,6 +1,6 @@
 # Asset publication review — 27 October 2026
 
-**Status: full source repository remains private. No public-source clearance has been established for all included assets.** The owner selected licence verification before deciding whether to make the complete repository public.
+**Publication decision:** on 27 October 2026, the owner explicitly requested public access for non-commercial portfolio use after this review. That request does not replace the asset licences. The findings and outstanding acquisition-record checks below remain applicable.
 
 ## What was checked
 
@@ -26,7 +26,7 @@
 2. Provenance and licence information for sourced audio and music.
 3. Any separate written permission permitting public source redistribution where the standard terms do not grant it.
 
-A README credit line or a blanket open-source licence cannot grant rights over third-party assets. Changing only the latest branch would still leave earlier commits and LFS objects within the repository's publication scope. No history rewriting, deletion, repository renaming or visibility change was performed.
+A README credit line or a blanket open-source licence cannot grant rights over third-party assets. Changing only the latest branch would still leave earlier commits and LFS objects within the repository's publication scope. No history rewriting, deletion or repository renaming was performed. The owner subsequently requested a repository visibility change; this does not grant asset-redistribution rights.
 
 If full-source clearance cannot be obtained, a separate public portfolio repository can present the individual's contribution, original documentation, approved implementation material and screenshots, while the complete engineering archive stays private. A packaged demo is a different distribution format and still needs its own asset/attribution checks before release.
 

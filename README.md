@@ -53,4 +53,4 @@ This is an educational team prototype. Third-party models, textures, audio and o
 
 [Build and validation notes](docs/BUILD_AND_VALIDATION.md) · [Asset publication review](docs/ASSET_PUBLICATION_REVIEW.md)
 
-The complete source archive remains private pending asset-source publication clearance.
+This repository is shared for non-commercial portfolio review. Third-party assets remain subject to their original licences; repository access does not grant additional redistribution rights.
